@@ -1,1 +1,3 @@
-hello word
+hello word  
+how are you
+fine thank you
